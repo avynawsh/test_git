@@ -1,8 +1,6 @@
 
 import numpy as np
 
-b = np.zeros(3)
-print(b)
 
 print("Hello")
 a = np.ones(4)
