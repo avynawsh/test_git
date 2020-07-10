@@ -1,7 +1,3 @@
-import sys
-
-print(sys.version)
-print(sys.executable)
 
 import numpy as np
 
@@ -14,4 +10,4 @@ a = np.ones(4)
 print(a)
 
 name = input('WHat is your name?\n')
-print(name)a
+print(name)
